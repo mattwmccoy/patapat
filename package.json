@@ -1,0 +1,23 @@
+{
+  "name": "patapat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "dependencies": {
+    "build": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattwmccoy/patapat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattwmccoy/patapat/issues"
+  },
+  "homepage": "https://github.com/mattwmccoy/patapat#readme"
+}
